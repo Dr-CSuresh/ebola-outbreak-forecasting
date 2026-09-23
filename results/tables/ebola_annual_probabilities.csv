@@ -1,0 +1,9 @@
+threshold,probability,percent,scenario
+At least 1 country,0.559461815759953,55.9,All years
+At least 2 countries,0.3073936162262114,30.7,All years
+At least 3 countries,0.16771623365439703,16.8,All years
+At least 5 countries,0.049426617049297183,4.9,All years
+At least 1 country,0.5866925364819202,58.7,Excluding 2014
+At least 2 countries,0.2398177867242146,24,Excluding 2014
+At least 3 countries,0.07716263615015984,7.7,Excluding 2014
+At least 5 countries,0.005026819782897651,0.5,Excluding 2014
