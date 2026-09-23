@@ -1,0 +1,9 @@
+outcome,probability,percent,scenario
+At least one Ebola-reporting year,0.98353,98.4,All years
+At least one year with >=2 countries,0.84145,84.1,All years
+At least one year with >=3 countries,0.59978,60,All years
+At least one year with >=5 countries,0.22158,22.2,All years
+At least one Ebola-reporting year,0.98749,98.7,Excluding 2014
+At least one year with >=2 countries,0.74472,74.5,Excluding 2014
+At least one year with >=3 countries,0.32792,32.8,Excluding 2014
+At least one year with >=5 countries,0.0241,2.4,Excluding 2014
